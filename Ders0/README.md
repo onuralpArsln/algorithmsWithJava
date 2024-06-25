@@ -16,3 +16,12 @@ main metodu özeldir ve her class içinde bir adet olur. Dosya yürütülünce �
 dosyalar classlar içerir, bir class olmadan program olmaz.
 
 class ve dosya adını aynı tutmak iyi bir yaklaşımdır.
+
+# multiclass
+
+Bir java dosyasında bir çok class olabilir bunların davranışının nasıl olacağı ile ilgili basit çalışmalar yapıyoruz.
+
+# useClassesTogether
+
+Bu yaklaşım sınıfların birlikte kullanımı ile ilgili uygulamalar içerir.
+Sınıfların düzgün şekilde tanımlanıp birlikte kullanılması büyük bir projede temiz kod yazılması için çok önemlidir.
