@@ -1,5 +1,10 @@
 Her örnek biraz daha karşılaşarak gidiyor.
 
+Artık java packagename/filename.java ile yürüt
+javac packagename/filename.java ile derle
+ve classları java packagename/filename ile yürüt
+bunları package adı olan klasörden yapacaksın
+
 teamBuilder1 bir dosya içinde iki class kullanımını gösteriyor
 
 teamBuilder2 iki farklı dosyanın bir package name altında kullanımını gösteriyor.

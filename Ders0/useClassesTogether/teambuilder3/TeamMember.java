@@ -1,4 +1,4 @@
-package teamBuilder3;
+package teambuilder3;
 
 public class TeamMember {
     String name;
@@ -11,7 +11,6 @@ public class TeamMember {
         this.lastName = lastName;
     }
 
-    
     public String represent() {
         return this.name + " " + this.lastName;
     }

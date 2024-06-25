@@ -1,5 +1,5 @@
 // file name also becomes package name
-package teamBuilder3;
+package teambuilder3;
 
 public class Team {
     TeamMember person1 = new TeamMember("Ahmet", "Mehmet");
