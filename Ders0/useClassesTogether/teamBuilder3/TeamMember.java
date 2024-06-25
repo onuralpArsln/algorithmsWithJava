@@ -1,5 +1,4 @@
-// dosya adı artık paket adı ve sen bu dosya içinde özgürce diğer sınıflara erişiyorsun
-package teamBuilder2;
+package teamBuilder3;
 
 public class TeamMember {
     String name;
@@ -12,6 +11,7 @@ public class TeamMember {
         this.lastName = lastName;
     }
 
+    
     public String represent() {
         return this.name + " " + this.lastName;
     }

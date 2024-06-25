@@ -1,5 +1,5 @@
-// dosya adı artık paket adı ve sen bu dosya içinde özgürce diğer sınıflara erişiyorsun
-package teamBuilder2;
+// file name also becomes package name
+package teamBuilder3;
 
 public class Team {
     TeamMember person1 = new TeamMember("Ahmet", "Mehmet");
