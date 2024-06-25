@@ -12,4 +12,9 @@ public class Team {
         System.out.println(basicTeam.person2.represent());
     }
 
+    public void showTeam() {
+        System.out.println(person1.represent());
+        System.out.println(person2.represent());
+    }
+
 }
