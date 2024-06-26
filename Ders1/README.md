@@ -25,5 +25,4 @@ Ancak şirketimizin web sitesinde çalışanların id ve maaş bilgisi gözükse
 Örneğin bir araç paylaşımı firması için çalışanın araç bilgisini paylaşmak mantıklı iken bir fotoğrafçılık şirketinin bu bilgiyi paylaşması gerekli olmayabilir, araçlı çekimler yapan özel bir firma değilse.
 
 # Abstract Data Type
-
-ADT olarak bilinen bu sistem aslında oldukça basit bir mantık. Çalışan için basit bir abstract veri tipi oluşturalım.
+ADT olarak bilinen bu sistem aslında oldukça basit bir mantık. Çalışan için basit bir abstract veri tipi oluşturalım. Bunun için adt klasörüne bak.
