@@ -25,3 +25,9 @@ Bir java dosyasında bir çok class olabilir bunların davranışının nasıl o
 
 Bu yaklaşım sınıfların birlikte kullanımı ile ilgili uygulamalar içerir.
 Sınıfların düzgün şekilde tanımlanıp birlikte kullanılması büyük bir projede temiz kod yazılması için çok önemlidir.
+Ancak bu kullanımın özellikte terminalde yapılması sırasında dosya lokasyonlarına dikkat edilmesi önemlidir. Bu konuda gerekli notlar dosya içinde mevcuttur.
+
+# usefullLottery
+
+Java gerçekten obje odaklı o kadar obje odaklı ki ilk bir obje olmadan yaşayamaz. O yüzden objeler ve classlarla uğratık bu noktaya kadar. Ama artık biraz özellik katma zamanı geldi.
+bu örnekte artık fonksiyonel elemenları görmeye başlayacağız. For while döngüleri if etkileşimleri ve basit ön tanımlı ddata yapıları gibi.
