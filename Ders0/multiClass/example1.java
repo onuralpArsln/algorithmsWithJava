@@ -3,6 +3,7 @@
 public class example1 {
 	public static void main(String[] args) {
 		System.out.println("Bu class example1");
+
 	}
 }
 
@@ -13,5 +14,20 @@ class example1sideclass {
 		// program bittikten sonra bir return olmaz
 		// class public olmasa da bu sınıf public çünkü dışarıdan çağrılabilir
 		System.out.println("bu side class");
+		example1extra example = new example1extra();
+		String name = example.name();
+		System.out.println(name);
+
+	}
+}
+
+class example1extra {
+
+	public void salut() {
+		System.out.println("selam");
+	}
+
+	public String name() {
+		return "mahmude";
 	}
 }
